@@ -1,4 +1,4 @@
-package Trees;
+package Trees.TreeTraversal;
 
 public class TreeTraversal {
 
